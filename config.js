@@ -1,18 +1,18 @@
 'use strict';
 
 module.exports = {
-  url: 'https://lumen.netlify.com',
+  url: 'https://melvinvivas.netlify.com',
   pathPrefix: '/',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Melvin Vivas Tech Blog',
+  subtitle: "Hi! Welcome to my tech blog! I'm a Filipino Software Engineer living in Singapore. I am currently working as a Golang Engineer.",
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  postsPerPage: 8,
+  googleAnalyticsId: '',
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
+      label: 'All Posts',
       path: '/'
     },
     {
@@ -25,24 +25,24 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Melvin Vivas',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: "Hi! Welcome to my blog! I'm a Filipino Software Engineer living in Singapore.",
     contacts: {
       email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
+      facebook: '',
+      telegram: '',
+      twitter: 'donvito',
+      github: 'donvito',
       rss: '',
       vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
+      linkedin: 'melvinvivas',
+      instagram: 'melvindave',
       line: '',
       gitlab: '',
       weibo: '',
       codepen: '',
-      youtube: '',
+      youtube: 'UCi6RVSV8s9Yy2Qg3WcGq9cg',
       soundcloud: '',
       medium: '',
     }
