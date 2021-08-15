@@ -8,7 +8,7 @@ category: "Jobs"
 tags:
   - "golang" 
   - "jobs"
-description: "Golang Developer or Engineer roles and Go-related jobs"
+description: "I created a  website https://golang-jobs.now.sh to compile Golang jobs from other websites."
 socialImage: "/media/Screenshot-2019-08-31-21.10.36.png"
 ---
 

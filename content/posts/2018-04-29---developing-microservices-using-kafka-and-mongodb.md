@@ -8,6 +8,8 @@ category: "Software Development"
 tags:
   - "golang" 
   - "graphql"
+  - "kafka"
+  - "docker"
 description: "Asynchronous Processing with Go Microservices using Kafka and MongoDB"
 socialImage: "/media/rest-kafka-mongo-microservice-draw-io.jpeg"
 ---
@@ -233,11 +235,6 @@ https://github.com/donvito/learngo/tree/master/rest-kafka-mongo-microservice
 
 Shameless plug! If you like this blog post, please follow me in Twitter **[@donvito](https://twitter.com/donvito)**. I tweet about Docker, Kubernetes, GoLang, Cloud, DevOps, Agile and Startups. Would love to connect in **[GitHub](https://github.com/donvito)** and **[LinkedIn](https://www.linkedin.com/in/melvinvivas/)**
 
-<a name="video1"></a>
-[VIDEO]
-
 <iframe width="860" height="615" src="https://www.youtube.com/embed/xa0Yia1jdu8" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-<br/>
 
 Enjoy!
