@@ -4,15 +4,15 @@ module.exports = {
   url: 'https://melvinvivas.netlify.com',
   pathPrefix: '/',
   title: 'Melvin Vivas Tech Blog',
-  subtitle: "Hi! Welcome to my tech blog! I'm a Golang Engineer living in Singapore.",
+  subtitle: "Hi, welcome to my tech blog! I'm a Golang Software Engineer living in Singapore.",
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 25,
+  postsPerPage: 30,
   googleAnalyticsId: 'UA-1569239-8',
   useKatex: false,
   menu: [
     {
-      label: 'All Posts',
+      label: 'Articles',
       path: '/'
     },
     {
@@ -31,7 +31,7 @@ module.exports = {
   author: {
     name: 'Melvin Vivas',
     photo: '/photo.jpg',
-    bio: "Hi! I'm Melvin! I'm a Golang Engineer living in Singapore.",
+    bio: "Hi! Welcome to my blog! I'm a Golang Software Engineer living in Singapore.",
     contacts: {
       email: '',
       facebook: '',
