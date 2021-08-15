@@ -1,6 +1,6 @@
 ---
 title: "Developing a Zoom API Client Library for Golang"
-date: "2020-05-23T22:40:32.169Z"
+date: "2020-05-23T00:00:00.000Z"
 template: "post"
 draft: false
 slug: "zoom-api-golang-library"
@@ -8,7 +8,6 @@ category: "software development"
 tags:
   - "golang" 
 description: "I thought of developing a Zoom API Golang Client Library for my personal use. There is no official Zoom API client library for Go/Golang so I thought it would be interesting to develop one."
-socialImage: "/media/image-0.jpg"
 ---
 I thought of developing a [Zoom](https://zoom.us) API Golang Client Library for my personal use. There is no official Zoom API client library for Go/Golang so I thought it would be interesting to develop one.
 
@@ -45,7 +44,7 @@ To use the library, you will need a paid account to access Zoom's REST API.  Unf
 > https://marketplace.zoom.us/docs/guides/build/jwt-app
 
 *Image from Zoom Documentation*
-![1560025161259](https://www.melvinvivas.com/content/images/2020/05/1560025161259.png)
+![1560025161259](/media/1560025161259.png)
 
 The zoom-go library uses environment variables to configure the API client. Here are the required environment variables.
 
@@ -146,3 +145,7 @@ func updateMeetingStatusExample(){
 ```
 
 That's it!  Hope this Zoom API Golang client library is useful to someone who would like to start integrating with Zoom using Go. Cheers!
+
+---
+P.S. 
+For updates, you can follow my blog and Twitter **[@donvito](https://twitter.com/donvito)**. Most of my tweets are about Docker, Kubernetes, GoLang, Cloud, DevOps, Agile and Startups. I also share code in my **[GitHub](https://github.com/donvito)**.  If you want to know more about what I do, please add me in **[LinkedIn](https://www.linkedin.com/in/melvinvivas/)**. I recently started a new [youtube channel](https://www.youtube.com/channel/UCi6RVSV8s9Yy2Qg3WcGq9cg) - I upload some tutorials there. Check it out!
