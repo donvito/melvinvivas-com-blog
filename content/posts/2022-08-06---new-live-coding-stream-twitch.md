@@ -16,6 +16,8 @@ Hey guys/gals, I've started a new Live Coding show in Twitch. You check it out a
 
 > https://twitch.tv/donvitocodes
 
+![screenshot](/media/donvitocodes.png)
+
 My plan is to host the following in my show:
 
 ## Tech Talk Tuesdays (TTT) 
@@ -23,7 +25,7 @@ My plan is to host the following in my show:
   - Interviews with Experienced Developers
 Friend who is working with Meta formerly Facebook (Marc)
   - CTO - one in the US and one in the PH
-  - My my current and previous teammates  who I’ve worked with
+  - My current and previous teammates  who I’ve worked with
     - Frontend, Backend, Devops. Mobile Developers
   
 * Tech Meetups
