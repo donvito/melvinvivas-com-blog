@@ -4,7 +4,7 @@ module.exports = {
   url: 'https://melvinvivas.netlify.com',
   pathPrefix: '/',
   title: 'Melvin Dave Vivas Tech Blog',
-  subtitle: "Hi, welcome to my tech blog! I'm a Golang Software Engineer living in Singapore.",
+  subtitle: "Welcome to my tech blog! I'm a Software Engineer living in Singapore. I also livestream Tech and Coding in Twitch.",
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 30,
@@ -18,27 +18,31 @@ module.exports = {
     {
       label: 'About',
       path: '/pages/about'
-    },
+    }, 
     {
       label: 'Contact',
       path: '/pages/contact'
     },
     {
-      label: 'Privacy Policy',
-      path: '/pages/privacy-policy'
+      label: 'Follow my Twitch',
+      path: 'https://www.donvitocodes.com'
     },
     {
       label: 'Buy Me a Coffee',
       path: 'https://www.buymeacoffee.com/melvindave'
     },
+    {
+      label: 'Privacy Policy',
+      path: '/pages/privacy-policy'
+    }
   ],
   author: {
     name: 'Melvin Dave Vivas',
     photo: '/photo.jpg',
-    bio: "Hi! Welcome to my Tech blog! I'm a Software Engineer living in Singapore. I am currently exploring AI and love sharing what I learn to everyone.",
+    bio: "Hi, welcome to my blog! I'm a Software Engineer living in Singapore. I love sharing new tech and occasionally livestream tech in Twitch.",
     contacts: {
       email: '',
-      facebook: '',
+      facebook: 'donvitocodes',
       telegram: '',
       twitter: 'donvito',
       github: 'donvito',
@@ -53,6 +57,7 @@ module.exports = {
       youtube: 'UCi6RVSV8s9Yy2Qg3WcGq9cg',
       soundcloud: '',
       medium: '',
+      twitch: 'https://twitch.tv/donvitocodes'
     }
   }
 };
