@@ -37,11 +37,11 @@ By allowing for seamless integration with various APIs, APIChain allows you to c
 
 ## **Searching the Street Address or Postal Code using LangChain and Singapore's OneMap API**
 
-In this example, let's use LangChain's APIChain feature to retrieve the street address and postal code of "OurTampines Hub" from the OneMap API. We can achieve this by creating a LangChain instance and calling its APIChain function with the appropriate API parameters.
+In this example, let's use LangChain's APIChain feature to retrieve the street address and postal code of "OurTampines Hub" from the [OneMap API](https://www.onemap.gov.sg/docs). We can achieve this by creating a LangChain instance and calling its APIChain function with the appropriate API parameters.
 
 ![](/media/langchain_openai_apichain.png)
 
-We would use LangChain's APIChain function to translate the user's query for the street address and postal code of OurTampines Hub into an API call to the OneMap API.
+We would use LangChain's APIChain function to translate the user's query for the street address and postal code of OurTampines Hub into an API call to the [OneMap API](https://www.onemap.gov.sg/docs).
 
 The OneMap API would then return the desired information, which LangChain would process and return to the user in a natural language format. For instance, LangChain might respond with "The street address of Our Tampines Hub is "1 TAMPINES WALK OUR TAMPINES HUB SINGAPORE 528523".
 
@@ -49,7 +49,9 @@ The result of the API is a JSON object. We can then use the JSON object to retri
 
 **OneMap API Endpoint**
 
+```
 GET https://developers.onemap.sg/commonapi/search?searchVal=our%tampines%hub&returnGeom=N&getAddrDetails=Y&pageNum=1
+```
 
 **Response**
 ```json
@@ -74,8 +76,8 @@ GET https://developers.onemap.sg/commonapi/search?searchVal=our%tampines%hub&ret
 ## **Source Code of Example**
 Below is the full code for the example above
 
-You can also copy the code from my github gist:
-https://gist.github.com/donvito/cb67bc5a497fd4bb02b5715c6096c0c0
+You can also copy the code from my [Github Gist](https://gist.github.com/donvito/cb67bc5a497fd4bb02b5715c6096c0c0)
+
 
 ```python
 import os
@@ -134,22 +136,22 @@ APIChain makes it easy to integrate with multiple APIs simultaneously, allowing 
 
 **Lots of Potential**
 
-APIChain has immense potential for a wide range of use cases beyond just retrieving location-based information. Here are a few examples of how APIChain could be used:
+**APIChain** has immense potential for a wide range of use cases beyond just retrieving location-based information. Here are a few examples of how APIChain could be used:
 
-- E-commerce: With APIChain, businesses could allow customers to use natural language to search for products and retrieve relevant results from their e-commerce API.
+- **E-commerce**: With APIChain, businesses could allow customers to use natural language to search for products and retrieve relevant results from their e-commerce API.
 
-- Finance: Users could ask natural language questions like "What is the current stock price of Amazon?" and APIChain could use the appropriate financial API to retrieve the information and return it in a human-readable format.
+- **Finance**: Users could ask natural language questions like "What is the current stock price of Amazon?" and APIChain could use the appropriate financial API to retrieve the information and return it in a human-readable format.
 
-- Travel: Users could use natural language to search for flights, hotels, and other travel-related information from various travel APIs, making the travel booking experience more personalized and intuitive.
+- **Travel**: Users could use natural language to search for flights, hotels, and other travel-related information from various travel APIs, making the travel booking experience more personalized and intuitive.
 
-- Healthcare: APIChain could be used to retrieve medical information from various healthcare APIs and provide personalized responses to user inquiries about symptoms, conditions, and treatments.
+- **Healthcare**: APIChain could be used to retrieve medical information from various healthcare APIs and provide personalized responses to user inquiries about symptoms, conditions, and treatments.
 
-- Education: APIChain could be used to provide personalized learning experiences to students by integrating with various educational APIs and providing answers to questions in real-time.
+- **Education**: APIChain could be used to provide personalized learning experiences to students by integrating with various educational APIs and providing answers to questions in real-time.
 
 Overall, APIChain has endless possibilities for businesses and developers looking to leverage the power of natural language processing and APIs to deliver personalized, intuitive experiences to their users.
 
 **Reference used**
-- API Chain Documentation https://python.langchain.com/en/latest/modules/chains/examples/api.html
+- **API Chain Documentation** https://python.langchain.com/en/latest/modules/chains/examples/api.html
 
 ---
 I hope this article helps you in your journey to develop your own applications with Open AI. I will find time to write more articles about Open AI and how to use it in your applications. You can reach me in my social media accounts below.
