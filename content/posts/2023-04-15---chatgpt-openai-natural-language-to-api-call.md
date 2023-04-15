@@ -166,7 +166,7 @@ Cheers!
 
 Melvin Dave
 
-<a href="https://discord.com/invite/aDffwCqw"><img height="80" width= "250" src="media/joindiscord.png" /></a>.
+<a href="https://discord.com/invite/aDffwCqw"><img height="80" width= "250" src="/media/joindiscord.png" /></a>.
 
 Or you can reach me in my social media accounts below.
 - **[Twitch](https://twitch.tv/donvitocodes)**
