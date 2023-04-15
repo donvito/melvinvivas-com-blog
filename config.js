@@ -24,16 +24,20 @@ module.exports = {
       path: '/pages/contact'
     },
     {
+      label: 'Privacy Policy',
+      path: '/pages/privacy-policy'
+    },
+    {
       label: 'Follow my Twitch',
       path: 'https://www.donvitocodes.com'
     },
     {
-      label: 'Buy Me a Coffee',
-      path: 'https://www.buymeacoffee.com/melvindave'
+      label: 'Join our Discord',
+      path: 'https://discord.com/invite/aDffwCqw'
     },
     {
-      label: 'Privacy Policy',
-      path: '/pages/privacy-policy'
+      label: 'Buy Me a Coffee',
+      path: 'https://www.buymeacoffee.com/melvindave'
     }
   ],
   author: {
