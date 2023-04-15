@@ -6,10 +6,11 @@ draft: false
 slug: "chatgpt-openai-langchain-llama-index-generative-text-ai"
 category: "AI, Software Development"
 tags:
-  - "twitch"
-  - "live coding" 
-  - "livestream" 
-  - "tech talks" 
+  - "langchain"
+  - "openai" 
+  - "chatgpt" 
+  - "ai" 
+  - "llamaindex"
 description: "In this blog post, I will explore Generative Text AI using OpenAI, Python and llama_Index. I will also discuss the accessibility of AI and the tools I have discovered to make it easier to use OpenAI APIs."
 ---
 
