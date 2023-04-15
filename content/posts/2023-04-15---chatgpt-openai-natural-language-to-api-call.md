@@ -166,7 +166,9 @@ Cheers!
 
 Melvin Dave
 
-You can reach me in my social media accounts below.
+<a href="https://discord.com/invite/aDffwCqw"><img height="80" width= "250" src="media/joindiscord.png" /></a>.
+
+Or you can reach me in my social media accounts below.
 - **[Twitch](https://twitch.tv/donvitocodes)**
 - **[Twitter](https://twitter.com/donvito)**
 - **[LinkedIn](https://www.linkedin.com/in/melvinvivas/)**
